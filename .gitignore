@@ -245,12 +245,11 @@ ModelManifest.xml
 .fake/
 .svn/
 
-# ABDE Other
+# Other
 dotfuscated/
 *.bak
 *.old
 *.7z
-dotfuscator/GS_SII.dll
 *.orig
 *.xlsx#
 .cr
